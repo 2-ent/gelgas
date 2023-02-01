@@ -34,25 +34,25 @@ html::-webkit-scrollbar-thumb {
 .hiddenleft{
     opacity: 0;
     filter: bluer(20rem);
-    transform: translateX(-20%);
+    transform: translateX(-2%);
     transition: all 1.5s;
 }
 .hiddenright{
     opacity: 0;
     filter: bluer(20rem);
-    transform: translateX(+20%);
+    transform: translateX(+2%);
     transition: all 1.5s;
 }
 .hiddentop{
     opacity: 0;
     filter: bluer(20rem);
-    transform: translateY(+20%);
+    transform: translateY(+2%);
     transition: all 1.5s;
 }
 .hiddenbottom{
     opacity: 0;
     filter: bluer(20rem);
-    transform: translateY(-20%);
+    transform: translateY(-2%);
     transition: all 1.5s;
 }
 .show{
