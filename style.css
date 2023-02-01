@@ -1174,10 +1174,14 @@ html::-webkit-scrollbar-thumb {
 }
 /*product*/
 .home-img img{
+    min-width: 80vh;
+    margin: 20px -5rem 0 -5rem;
+}
+/*.home-img img{
     min-width: 45vh;
     margin-top: 10px;
     margin-left: 1rem; 
-}
+}*/
 /*END HOME*/
 
 /*FAQ*/
