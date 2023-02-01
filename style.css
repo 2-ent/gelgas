@@ -1175,7 +1175,7 @@ html::-webkit-scrollbar-thumb {
 /*product*/
 .home-img img{
     min-width: 80vh;
-    margin: 20px -1rem 0 -1rem;
+    margin: 20px 1rem 0 1rem;
 }
 /*.home-img img{
     min-width: 45vh;
